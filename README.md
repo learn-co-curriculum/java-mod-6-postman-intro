@@ -37,7 +37,6 @@ Let's see if this works now! Click the "Send" button next to the request.
 Looks like the lunch special on Monday is a BLT sandwich! Yippee! Looks like
 everything works. We'll continue to use Postman as a testing tool. Now let's get
 into debugging our application.
-123456789101112131415161718192021222324252627ac28293031323334353637383940404143454
 
 ## Conclusion
 
