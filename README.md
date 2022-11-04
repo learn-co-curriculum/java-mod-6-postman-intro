@@ -53,5 +53,4 @@ your projects.
 
 ## Resources
 
-- [Postman Documentation][postman docs]
-
+- [Postman Documentation](https://learning.postman.com/docs/getting-started/sending-the-first-request/)
